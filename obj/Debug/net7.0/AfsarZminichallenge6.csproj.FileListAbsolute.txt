@@ -1,0 +1,14 @@
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZminichallenge6/bin/Debug/net7.0/AfsarZminichallenge6
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZminichallenge6/bin/Debug/net7.0/AfsarZminichallenge6.deps.json
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZminichallenge6/bin/Debug/net7.0/AfsarZminichallenge6.runtimeconfig.json
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZminichallenge6/bin/Debug/net7.0/AfsarZminichallenge6.dll
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZminichallenge6/bin/Debug/net7.0/AfsarZminichallenge6.pdb
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZminichallenge6/obj/Debug/net7.0/AfsarZminichallenge6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZminichallenge6/obj/Debug/net7.0/AfsarZminichallenge6.AssemblyInfoInputs.cache
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZminichallenge6/obj/Debug/net7.0/AfsarZminichallenge6.AssemblyInfo.cs
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZminichallenge6/obj/Debug/net7.0/AfsarZminichallenge6.csproj.CoreCompileInputs.cache
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZminichallenge6/obj/Debug/net7.0/AfsarZminichallenge6.dll
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZminichallenge6/obj/Debug/net7.0/refint/AfsarZminichallenge6.dll
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZminichallenge6/obj/Debug/net7.0/AfsarZminichallenge6.pdb
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZminichallenge6/obj/Debug/net7.0/AfsarZminichallenge6.genruntimeconfig.cache
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZminichallenge6/obj/Debug/net7.0/ref/AfsarZminichallenge6.dll
